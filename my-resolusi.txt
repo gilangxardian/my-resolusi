@@ -2,3 +2,6 @@ My Resolusi
 - Ingin menguasai Java
 - Membuat aplikasi perspustakaan
 - Membuat aplikasi game sederhana
+- Membuat aplikasi perbankan sederhana
+- Membuat aplikasi toko online
+- Membentuk tim yang kuat
