@@ -1,0 +1,4 @@
+My Resolusi
+- Ingin menguasai Java
+- Membuat aplikasi perspustakaan
+- Membuat aplikasi game sederhana
