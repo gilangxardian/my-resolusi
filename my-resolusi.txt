@@ -3,5 +3,5 @@ My Resolusi
 - Membuat aplikasi perspustakaan
 - Membuat aplikasi game sederhana
 - Membuat aplikasi perbankan sederhana
-- Membuat aplikasi toko online
+- Membuat blog
 - Membentuk tim yang kuat
