@@ -6,3 +6,4 @@ TAHAPAN BELAJAR BAHASA JAVA
 - Memahami String [] args
 - Variable, Assignment dan Deklarasi
 - Tipe data fundamental atau Primitive
+- Operator Aritmatika
