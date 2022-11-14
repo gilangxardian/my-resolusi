@@ -10,4 +10,6 @@ TAHAPAN BELAJAR BAHASA JAVA
   * Belajar selama empat jam
   * Menyelesaikan tiga tugas
 - Konversi tipe data numeric
+  * Belajar selama tiga jam
+  * Menyelesaikan dua tugas
 - Operator Unary (Decrement dan Increment)
