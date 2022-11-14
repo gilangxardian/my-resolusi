@@ -7,3 +7,7 @@ TAHAPAN BELAJAR BAHASA JAVA
 - Variable, Assignment dan Deklarasi
 - Tipe data fundamental atau Primitive
 - Operator Aritmatika
+  * Belajar selama empat jam
+  * Menyelesaikan tiga tugas
+- Konversi tipe data numeric
+- Operator Unary (Decrement dan Increment)
