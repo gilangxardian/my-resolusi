@@ -1,5 +1,7 @@
 TAHAPAN BELAJAR BAHASA JAVA
 - Organisasi Program dengan Package
+  * Belajar selama dua jam
+  * Menyelesaikan satu tugas
 - Pengenalan Print dan Alur Eksekusi
 - Memahami String [] args
 - Variable, Assignment dan Deklarasi
