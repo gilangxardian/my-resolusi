@@ -1,0 +1,6 @@
+TAHAPAN BELAJAR BAHASA JAVA
+- Organisasi Program dengan Package
+- Pengenalan Print dan Alur Eksekusi
+- Memahami String [] args
+- Variable, Assignment dan Deklarasi
+- Tipe data fundamental atau Primitive
